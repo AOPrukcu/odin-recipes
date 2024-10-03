@@ -1,2 +1,4 @@
 # odin-recipes
-first odin project
+
+
+first odin project, for css and html skills 
